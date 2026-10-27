@@ -16,11 +16,11 @@ The content is served as is. When using the content in a business environment th
 
 | Category | Count |
 | --- | --- |
-| DNS | 15 |
-| IP | 77 |
-| MD5 | 11 |
-| SHA1 | 4 |
-| SHA256 | 7 |
+| DNS | 17 |
+| IP | 78 |
+| MD5 | 12 |
+| SHA1 | 5 |
+| SHA256 | 8 |
 | SSL | 1 |
 | URL | 23 |
 | CVEID | 4 |
@@ -225,9 +225,6 @@ Terms of Service: https://ellio.tech/beta-terms-and-conditions
 # GreenSnow
 - https://blocklist.greensnow.co/greensnow.txt
 
-# Mirai Security
-- https://mirai.security.gives/data/ip_list.txt
-
 # NIST
 - https://services.nvd.nist.gov/rest/json/cves/2.0
 
@@ -254,6 +251,14 @@ Terms of Service: https://ellio.tech/beta-terms-and-conditions
 - https://nocdn.threat-list.com/0/domains.txt
 - https://dl.threat-list.com/1/domains.txt
 
+# threatcluster.io
+
+- https://threatcluster.io/api/iocs/public/feed.txt
+- https://threatcluster.io/api/iocs/public/feed.csv
+- https://threatcluster.io/api/iocs/public/domains.txt
+- https://threatcluster.io/api/iocs/public/ips.txt
+- https://threatcluster.io/api/iocs/public/hashes.txt
+
 # threatview.io
 - https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
 - https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt
@@ -262,6 +267,10 @@ Terms of Service: https://ellio.tech/beta-terms-and-conditions
 - https://threatview.io/Downloads/MD5-HASH-ALL.txt
 - https://threatview.io/Downloads/URL-High-Confidence-Feed.txt
 - https://threatview.io/Downloads/SHA-HASH-FEED.txt
+
+# SiberKapan
+- https://siberkapan.org/domains/siberkapan/txt
+- https://siberkapan.org/api/v1/list/txt
 
 # VPN
 - https://github.com/X4BNet/lists_vpn/tree/main

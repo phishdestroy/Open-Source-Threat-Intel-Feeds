@@ -1,10 +1,10 @@
 | Category | Count |
 | --- | --- |
-| DNS | 15 |
-| IP | 76 |
-| MD5 | 11 |
-| SHA1 | 4 |
-| SHA256 | 7 |
+| DNS | 17 |
+| IP | 78 |
+| MD5 | 12 |
+| SHA1 | 5 |
+| SHA256 | 8 |
 | SSL | 1 |
 | URL | 23 |
 | CVEID | 4 |
