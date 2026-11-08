@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-07T07:32:57.204250+00:00",
+  "checked_at": "2026-11-08T07:43:25.510732+00:00",
   "upstream": "Bert-JanP/Open-Source-Threat-Intel-Feeds",
   "upstream_branch": "main",
-  "upstream_commit": "0c785e75581fbf08c0573de4eba091957c73c2a9",
+  "upstream_commit": "ae15ceed6c0dab799e528afa3ab2c5f3d79e6b94",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
